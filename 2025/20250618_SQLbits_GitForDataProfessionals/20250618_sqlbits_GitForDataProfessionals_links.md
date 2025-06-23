@@ -1,14 +1,14 @@
 ## Personal information
-[@geekingthething.bsky.social](https://bsky.app/profile/geekingthething.bsky.social) 
-https://www.linkedin.com/in/els-van-vessem/
-elsvanvessem@gmail.com
-http://ifthenels.com
-https://opendata.tweedekamer.nl/ 
+- [@geekingthething.bsky.social](https://bsky.app/profile/geekingthething.bsky.social)
+- https://www.linkedin.com/in/els-van-vessem/
+- elsvanvessem@gmail.com
+- http://ifthenels.com
+- https://opendata.tweedekamer.nl/ 
 
 # Setting up git
-Download git: https://git-scm.com/downloads
+- Download git: https://git-scm.com/downloads
 
-Set up your identity:
+- Set up your identity:
 - open "git bash" and use the following commands
 ```
 git config --global user.name "SQL bits"
@@ -20,8 +20,8 @@ git config --global credential.helper store # (optional)
 
 ## Useful links (from last slide)
 - Database projects in Visual Studio with SSDT,by Kamil Nowinski: 
-https://learn.azureplayer.net/?coupon=els10 (affiliate and discount link!)
-through this link you'll get a 10% discount if you buy the course; there are also free lessons!
+  - https://learn.azureplayer.net/?coupon=els10 (affiliate and discount link!)
+  - through this link you'll get a 10% discount if you buy the course; there are also free lessons!
 - Extra tool you can use for git, with a clear visualization of branches etc:
   - https://www.gitkraken.com
   - short explainer videos: https://www.youtube.com/@GitKraken
