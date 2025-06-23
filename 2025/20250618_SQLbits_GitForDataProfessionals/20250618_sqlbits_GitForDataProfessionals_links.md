@@ -9,13 +9,13 @@
 - Download git: https://git-scm.com/downloads
 
 - Set up your identity:
-- open "git bash" and use the following commands
+  - open "git bash" and use the following commands
 ```
 git config --global user.name "SQL bits"
 git config --global user.email sqlbits@sqlbit.com
 git config --global credential.helper store # (optional)
 ```
-- Check your settings with
+  - Check your settings with
 `git config --global --list`
 
 ## Useful links (from last slide)
