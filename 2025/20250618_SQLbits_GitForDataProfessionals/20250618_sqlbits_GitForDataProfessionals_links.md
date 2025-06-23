@@ -20,7 +20,8 @@ git config --global credential.helper store # (optional)
 
 ## Useful links (from last slide)
 - Database projects in Visual Studio with SSDT,by Kamil Nowinski: 
-  - https://learn.azureplayer.net/?coupon=els10 (affiliate and discount link!)
+  - https://learn.azureplayer.net/?coupon=els10
+  - (affiliate and discount link!)
   - through this link you'll get a 10% discount if you buy the course; there are also free lessons!
 - Extra tool you can use for git, with a clear visualization of branches etc:
   - https://www.gitkraken.com
